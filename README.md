@@ -1,10 +1,11 @@
+<div align="center">
 # Hi 👋, I'm Sudhanshu Ranjan
 ### 🚀 Cloud & DevOps Engineer | Azure | Terraform | Docker | K8s | CI/CD 
-
+</div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
 I’m a DevOps Engineer focused on building and automating scalable cloud infrastructure on Azure using Terraform, CI/CD, containers, and modern DevOps practices.
 
@@ -16,6 +17,8 @@ I’m a DevOps Engineer focused on building and automating scalable cloud infras
 - 🔐 Applying DevSecOps practices to improve the security and reliability of deployments
 - 🐧 Working with Linux, Git, GitHub, and Azure CLI
 
+- 👨‍💻 Projects: [github.com/Sudhanshu4352]
+- 📧 Email: [sudhanshu4352@gmail.com]
 ---
 
 ## 🚀 Featured Projects
